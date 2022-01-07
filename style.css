@@ -48,6 +48,83 @@
 }
 
 
+/* 2nd Part Missions  */
+
+
+.recipies h1{
+    text-align: center;
+    color:black;
+    font-size: 45px;
+}
+.many-foods h2{
+  color:black;
+  font-weight: 700;
+}
+
+.recipies span{
+    color: rgb(138, 21, 247);
+}
+
+
+.recipies .changes{
+    text-align: center;
+    font-size: 22px;
+    padding-left: 20%;
+    padding-right: 10%;
+    color:chocolate;
+}
+
+.recipies .menu{
+    display: flex;
+    
+}
+
+
+.recipies .many-foods img{
+    height:60%;
+    width:70%;
+
+}
+
+
+.recipies .many-foods{ 
+    margin-left: 3%;
+    margin-right: 4%; 
+    color:red;
+    border-radius: 30px;
+
+}
+
+.recipies .many-foods p{
+    color:black;
+}
+
+.recipies .extra h1{
+    padding-top: 40px;
+}
+
+.recipies{
+    margin-bottom: 5%;
+}
+.mission1{
+    background-color:rgb(167, 143, 143);
+    border-radius: 20px;
+    padding:15px;
+}
+.mission2{
+    background-color:lavenderblush;
+    border-radius: 30px;
+    padding:15px;
+}
+.mission3{
+    background-color:gainsboro;
+    border-radius: 30px;
+    padding:15px;
+}
+
+
+
+
 
 
 
