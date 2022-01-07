@@ -8,8 +8,10 @@
 .food .row{
     display:flex;
     flex-basis: 31%;
+    padding-left: 5%;
    
 }
+
 
 .food h1{
     font-size: 40px;
@@ -43,9 +45,7 @@
 }
 
 
-.food a:hover{
-    color:darkcyan;
-}
+
 
 
 /* 2nd Part Missions  */
