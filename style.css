@@ -154,8 +154,7 @@
 }
 
 
-.develop p{
-    
+.develop p{  
     padding:10px 8px;
     text-align: justify;
     margin-right: 20px;
@@ -188,7 +187,68 @@
 }
 
 
+/* 4th Part global Community  */
 
+.Global{
+    margin-top: 60px;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+.Global .imag img{
+    height: 75%;
+    width:65%;
+    margin-left: 90px;
+    padding-top: 10px;
+    margin-top: 60px;
+    
+}
+
+.Global .ashik{
+    display: flex;
+}
+
+
+.Global h1{
+    font-size: 40px;   
+    padding: 10px 8px;
+    margin-top: 50px;
+}
+
+
+.Global p{  
+    padding:10px 8px;
+    text-align: justify;
+    margin-right: 20px;
+    font-size: 18px;
+}
+
+
+
+.Global a{
+    text-decoration: none;
+    background-image:  linear-gradient(lightsalmon,#f44336);
+    color:white;
+   
+    font-weight: 700;
+    font-size:19px;
+    padding:10px 30px;
+}
+
+.Global a:hover{
+    color:darkcyan;
+}
+
+.Global{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 150px;
+    margin-top: 90px;
+    margin-bottom: 20%;
+}
 
 
 
